@@ -1,0 +1,274 @@
+01 read finished
+01 sort finished
+time out error 0 上海火车站 汉中路 15:32:27 15:32:27
+time out error 0 嘉定西 嘉定西 14:50:36 14:50:36
+time out error 0 嘉定西 嘉定西 20:17:23 20:17:23
+time out error 0 东安路 东安路 17:43:49 17:43:49
+time out error 0 东安路 东安路 19:48:39 19:48:39
+time out error 0 嘉定西 嘉定西 18:19:05 18:19:05
+time out error 0 人民广场 人民广场 21:57:53 21:57:53
+time out error 0 闵行开发区 闵行开发区 17:37:41 17:37:41
+time out error 0 淞浜路 淞浜路 14:53:28 14:53:28
+time out error 0 北桥 北桥 08:13:56 08:13:56
+time out error 0 嘉定西 嘉定西 20:55:53 20:55:53
+time out error 0 东安路 东安路 16:20:45 16:20:45
+file 01 finished.  9024322 9024302
+02 read finished
+02 sort finished
+time out error 0 银都路 银都路 10:08:25 10:08:25
+time out error 0 上海火车站 汉中路 19:36:53 19:36:53
+time out error 0 汉中路 上海火车站 20:46:36 20:46:36
+time out error 0 武威路 武威路 19:28:05 19:28:05
+time out error 0 曹杨路 曹杨路 08:54:05 08:54:05
+file 02 finished.  8971554 8971542
+04 read finished
+04 sort finished
+time out error 0 人民广场 陕西南路 12:24:14 12:24:14
+time out error 0 北桥 北桥 14:22:02 14:22:02
+time out error 0 上海火车站 上海火车站 12:12:43 12:12:43
+file 04 finished.  6162358 6162343
+05 read finished
+05 sort finished
+time out error 0 北桥 北桥 10:16:50 10:16:50
+time out error 0 人民广场 人民广场 13:24:05 13:24:05
+time out error 0 五洲大道 东昌路 19:51:02 19:51:02
+time out error 0 虹桥火车站 曹杨路 19:50:52 19:50:52
+time out error 0 曹杨路 曹杨路 20:59:22 20:59:22
+file 05 finished.  5385069 5385054
+06 read finished
+06 sort finished
+time out error 0 淞浜路 淞浜路 12:42:20 12:42:20
+time out error 0 淞浜路 淞浜路 06:32:28 06:32:28
+time out error 0 长江南路 长江南路 13:11:52 13:11:52
+time out error 0 长江南路 长江南路 06:28:58 06:28:58
+time out error 0 徐家汇 上大路 11:29:07 11:29:07
+time out error 0 长江南路 长江南路 08:25:55 08:25:55
+time out error 0 莲花路 锦江乐园 21:31:25 21:31:25
+time out error 0 长江南路 长江南路 15:59:20 15:59:20
+file 06 finished.  5029067 5029026
+07 read finished
+07 sort finished
+time out error 0 通河新村 通河新村 18:03:53 18:03:53
+time out error 0 颛桥 颛桥 09:58:35 09:58:35
+time out error 0 东安路 东安路 16:53:32 16:53:32
+time out error 0 金沙江路 金沙江路 20:34:19 20:34:19
+time out error 0 金沙江路 金沙江路 19:06:45 19:06:45
+file 07 finished.  8652931 8652836
+08 read finished
+08 sort finished
+time out error 0 长江南路 长江南路 14:26:24 14:26:24
+time out error 0 长江南路 长江南路 08:37:22 08:37:22
+time out error 0 北桥 北桥 14:25:20 14:25:20
+time out error 0 长江南路 长江南路 13:11:22 13:11:22
+time out error 0 北桥 北桥 09:47:26 09:47:26
+time out error 0 长江南路 长江南路 11:14:52 11:14:52
+time out error 0 长江南路 长江南路 22:22:43 22:22:43
+time out error 0 人民广场 人民广场 10:37:29 10:37:29
+time out error 0 长江南路 长江南路 08:16:30 08:16:30
+file 08 finished.  9020362 9020353
+09 read finished
+09 sort finished
+time out error 0 长江南路 长江南路 09:15:23 09:15:23
+time out error 0 颛桥 颛桥 10:19:37 10:19:37
+time out error 0 长江南路 长江南路 09:05:55 09:05:55
+time out error 0 长江南路 长江南路 07:12:06 07:12:06
+time out error 0 人民广场 人民广场 17:27:02 17:27:02
+time out error 0 长江南路 长江南路 08:16:50 08:16:50
+time out error 0 北桥 北桥 10:29:08 10:29:08
+file 09 finished.  8995980 8995944
+10 read finished
+10 sort finished
+time out error 0 闵行开发区 闵行开发区 12:34:32 12:34:32
+time out error 0 金沙江路 金沙江路 07:32:11 07:32:11
+time out error 0 东安路 东安路 21:38:01 21:38:01
+time out error 0 剑川路 剑川路 07:19:50 07:19:50
+time out error 0 上海火车站 上海火车站 10:36:56 10:36:56
+time out error 0 人民广场 人民广场 20:58:41 20:58:41
+file 10 finished.  9702825 9702796
+11 read finished
+11 sort finished
+time out error 0 长江南路 长江南路 16:25:23 16:25:23
+time out error 0 长江南路 长江南路 15:07:38 15:07:38
+time out error 0 浦电路 浦电路 22:57:54 22:57:54
+time out error 0 东安路 东安路 09:00:14 09:00:14
+time out error 0 长江南路 长江南路 22:16:55 22:16:55
+time out error 0 长江南路 长江南路 14:48:38 14:48:38
+time out error 0 长江南路 长江南路 19:01:21 19:01:21
+time out error 0 长江南路 长江南路 14:49:47 14:49:47
+time out error 0 长江南路 长江南路 13:35:37 13:35:37
+time out error 0 赤峰路 赤峰路 08:39:57 08:39:57
+time out error 0 长江南路 长江南路 14:47:06 14:47:06
+time out error 0 剑川路 剑川路 16:00:30 16:00:30
+file 11 finished.  7099529 7099489
+13 read finished
+13 sort finished
+time out error 0 长江南路 长江南路 15:14:08 15:14:08
+time out error 0 松江大学城 松江大学城 08:49:10 08:49:10
+time out error 0 松江大学城 松江大学城 17:25:59 17:25:59
+time out error 0 金沙江路 金沙江路 09:25:33 09:25:33
+time out error 0 东川路 东川路 10:25:58 10:25:58
+file 13 finished.  8893497 8893442
+14 read finished
+14 sort finished
+time out error 0 北桥 北桥 07:07:28 07:07:28
+time out error 0 赤峰路 赤峰路 18:48:44 18:48:44
+time out error 0 长江南路 长江南路 07:57:28 07:57:28
+time out error 0 长江南路 长江南路 07:18:31 07:18:31
+file 14 finished.  8855561 8855552
+15 read finished
+15 sort finished
+time out error 0 松江大学城 松江大学城 19:35:16 19:35:16
+time out error 0 淞浜路 淞浜路 14:54:12 14:54:12
+time out error 0 锦绣路 静安寺 10:13:39 10:13:39
+time out error 0 淞浜路 淞浜路 12:47:41 12:47:41
+time out error 0 浦电路 浦电路 09:48:48 09:48:48
+time out error 0 上海火车站 上海火车站 13:19:04 13:19:04
+time out error 0 长江南路 长江南路 10:26:29 10:26:29
+time out error 0 长江南路 长江南路 15:50:38 15:50:38
+time out error 0 江杨北路 江杨北路 11:21:39 11:21:39
+time out error 0 浦电路 浦电路 09:41:26 09:41:26
+file 15 finished.  9089193 9089169
+16 read finished
+16 sort finished
+time out error 0 长寿路 长寿路 09:33:29 09:33:29
+time out error 0 长寿路 长寿路 13:47:56 13:47:56
+time out error 0 上海火车站 上海火车站 14:12:25 14:12:25
+time out error 0 东安路 东安路 19:27:52 19:27:52
+time out error 0 剑川路 剑川路 07:13:53 07:13:53
+time out error 0 长寿路 长寿路 09:18:36 09:18:36
+time out error 0 张华浜 张华浜 17:21:41 17:21:41
+file 16 finished.  9005794 9005793
+17 read finished
+17 sort finished
+time out error 0 镇坪路 镇坪路 19:48:26 19:48:26
+time out error 0 东川路 东川路 07:17:59 07:17:59
+time out error 0 银都路 银都路 16:07:01 16:07:01
+time out error 0 镇坪路 镇坪路 19:51:08 19:51:08
+time out error 0 闵行开发区 闵行开发区 16:44:20 16:44:20
+file 17 finished.  9690765 9690748
+18 read finished
+18 sort finished
+time out error 0 人民广场 人民广场 22:22:24 22:22:24
+time out error 0 金平路 金平路 17:19:31 17:19:31
+time out error 0 长寿路 长寿路 18:48:25 18:48:25
+time out error 0 汉中路 汉中路 10:10:52 10:10:52
+time out error 0 长江南路 长江南路 14:59:54 14:59:54
+time out error 0 东川路 东川路 06:48:40 06:48:40
+time out error 0 长江南路 长江南路 14:46:14 14:46:14
+time out error 0 颛桥 颛桥 18:07:54 18:07:54
+file 18 finished.  6902697 6902656
+19 read finished
+19 sort finished
+time out error 0 东川路 东川路 10:27:23 10:27:23
+time out error 0 人民广场 人民广场 17:47:38 17:47:38
+time out error 0 上海火车站 上海火车站 21:54:37 21:54:37
+time out error 0 江杨北路 江杨北路 08:17:48 08:17:48
+time out error 0 汉中路 汉中路 16:11:56 16:11:56
+time out error 0 江杨北路 江杨北路 11:33:19 11:33:19
+time out error 0 嘉定西 嘉定西 18:36:26 18:36:26
+time out error 0 江杨北路 江杨北路 17:10:57 17:10:57
+time out error 0 江杨北路 江杨北路 10:29:35 10:29:35
+time out error 0 江杨北路 江杨北路 13:44:31 13:44:31
+file 19 finished.  5826715 5826694
+20 read finished
+20 sort finished
+time out error 0 人民广场 人民广场 15:15:56 15:15:56
+time out error 0 上海火车站 上海火车站 21:31:05 21:31:05
+time out error 0 金沙江路 金沙江路 08:33:21 08:33:21
+time out error 0 上海火车站 上海火车站 08:21:53 08:21:53
+time out error 0 东安路 东安路 09:19:32 09:19:32
+time out error 0 颛桥 颛桥 18:55:54 18:55:54
+time out error 0 上海火车站 上海火车站 11:32:58 11:32:58
+time out error 0 人民广场 人民广场 17:49:46 17:49:46
+file 20 finished.  8772735 8772707
+21 read finished
+21 sort finished
+time out error 0 云山路 云山路 15:29:14 15:29:14
+time out error 0 上海火车站 上海火车站 14:12:04 14:12:04
+time out error 0 临港大道 临港大道 12:30:21 12:30:21
+time out error 0 成山路 耀华路 23:14:38 23:14:38
+time out error 0 人民广场 人民广场 16:32:05 16:32:05
+time out error 0 人民广场 人民广场 14:59:57 14:59:57
+time out error 0 东川路 东川路 08:26:33 08:26:33
+time out error 0 金沙江路 金沙江路 12:20:04 12:20:04
+file 21 finished.  9073352 9073336
+22 read finished
+22 sort finished
+time out error 0 颛桥 颛桥 08:56:30 08:56:30
+time out error 0 静安寺 静安寺 23:55:05 23:55:10
+time out error 0 闵行开发区 闵行开发区 16:49:31 16:49:31
+file 22 finished.  9189315 9189289
+23 read finished
+23 sort finished
+time out error 0 人民广场 人民广场 14:37:31 14:37:31
+time out error 0 江杨北路 江杨北路 09:19:05 09:19:05
+time out error 0 长江南路 长江南路 08:00:35 08:00:35
+file 23 finished.  9122676 9122633
+24 read finished
+24 sort finished
+time out error 0 大华三路 大华三路 11:33:56 11:33:56
+time out error 0 曹杨路 曹杨路 12:11:37 12:11:37
+time out error 0 长江南路 长江南路 07:40:11 07:40:11
+file 24 finished.  9672277 9672245
+25 read finished
+25 sort finished
+time out error 0 嘉定西 嘉定西 23:06:23 23:06:23
+time out error 0 嘉定西 嘉定西 20:07:31 20:07:31
+time out error 0 东安路 东安路 16:25:02 16:25:02
+time out error 0 大华三路 大华三路 12:33:57 12:33:57
+time out error 0 春申路 春申路 09:09:56 09:09:56
+time out error 0 嘉定西 嘉定西 19:06:52 19:06:52
+time out error 0 东安路 东安路 11:56:02 11:56:02
+time out error 0 北桥 北桥 09:16:20 09:16:20
+time out error 0 东安路 东安路 18:19:25 18:19:25
+time out error 0 中山公园 中山公园 14:52:50 14:52:50
+time out error 0 嘉定西 嘉定西 20:07:58 20:07:58
+time out error 0 闵行开发区 闵行开发区 19:48:42 19:48:42
+time out error 0 长江南路 长江南路 16:11:38 16:11:38
+time out error 0 嘉定西 嘉定西 20:56:40 20:56:40
+file 25 finished.  7119010 7118967
+26 read finished
+26 sort finished
+time out error 0 长江南路 长江南路 08:16:40 08:16:40
+time out error 0 七宝 七宝 18:18:20 18:18:20
+time out error 0 金沙江路 金沙江路 12:02:14 12:02:14
+time out error 0 东川路 东川路 15:35:06 15:35:06
+time out error 0 大华三路 大华三路 22:21:10 22:21:10
+time out error 0 颛桥 颛桥 15:50:08 15:50:08
+time out error 0 江杨北路 江杨北路 13:43:01 13:43:01
+time out error 0 北桥 北桥 14:52:20 14:52:20
+time out error 0 南京西路 成山路 15:46:03 15:46:03
+time out error 0 江杨北路 江杨北路 15:27:36 15:27:36
+time out error 0 人民广场 人民广场 20:03:56 20:03:56
+time out error 0 上海动物园 四川北路 13:44:06 13:44:06
+time out error 0 江杨北路 江杨北路 14:09:29 14:09:29
+file 26 finished.  6306224 6306207
+27 read finished
+27 sort finished
+time out error 0 闵行开发区 闵行开发区 17:20:25 17:20:25
+time out error 0 金平路 金平路 17:20:04 17:20:04
+time out error 0 汶水路 汶水路 09:10:34 09:10:34
+time out error 0 汉中路 汉中路 18:25:17 18:25:17
+file 27 finished.  8909261 8909215
+28 read finished
+28 sort finished
+time out error 0 嘉定西 嘉定西 17:27:54 17:27:54
+time out error 0 长江南路 长江南路 09:45:57 09:45:57
+time out error 0 嘉定西 嘉定西 22:16:15 22:16:15
+time out error 0 金平路 金平路 22:47:57 22:47:57
+time out error 0 嘉定西 嘉定西 13:39:45 13:39:45
+time out error 0 大华三路 大华三路 14:52:38 14:52:38
+time out error 0 张华浜 张华浜 13:54:18 13:54:18
+time out error 0 长江南路 长江南路 08:13:22 08:13:22
+time out error 0 颛桥 颛桥 07:40:36 07:40:36
+file 28 finished.  9017493 9017478
+30 read finished
+30 sort finished
+time out error 0 虹桥火车站 世纪大道 23:00:45 23:00:45
+time out error 0 东川路 东川路 08:06:09 08:06:09
+time out error 0 江杨北路 江杨北路 07:36:54 07:36:54
+time out error 0 东川路 东川路 20:29:45 20:29:45
+time out error 0 闵行开发区 闵行开发区 19:44:51 19:44:51
+file 30 finished.  9692404 9692365
+20 7
+[Finished in 7358.0s]
