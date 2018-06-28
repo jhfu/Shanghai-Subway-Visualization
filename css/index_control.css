@@ -1,0 +1,189 @@
+body {
+  font: 10px sans-serif ;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+}
+
+.y.axis path {
+  display: none;
+}
+.y.axis text {
+  font: 0px sans-serif;
+}
+
+.sc.axis text {
+  font: 0px sans-serif;
+}
+
+.pa.axis text {
+  font: 11px sans-serif;
+}
+
+.paa.axis text {
+  font: 0px sans-serif;
+}
+.paa.axis path{
+  display: none;
+}
+#outer-div{
+	position:absolute;
+	top:4.7%;
+	left:0;
+	right:0;
+	bottom: 0;
+      background-color: #F5F5F5;
+}
+
+#buttonsGraph{
+  position:absolute;
+  top:0%;
+  left:0%;
+  width: 5%;
+  height:80%;
+  border-style: solid;
+  border-width: 0px;
+  border-color: silver;
+  line-height:1.5;
+    background-color: #F5F5F5;
+}
+
+#mainGraph{
+  position:absolute;
+  top:0;
+  left:5%;
+  width: 60%;
+  height:80%;
+  border-style: solid;
+  border-width: 0px;
+  border-color: silver;
+  line-height:1.5;
+background-color: #F5F5F5;
+}
+
+#clockGraph{
+  position:absolute;
+  top:3%;
+  left:53%;
+  width: 12%;
+  height:10%;
+  border-style: solid;
+  border-width: 0px;
+  border-color: silver;
+  line-height:1.5;
+/*background-color: #F5F5F5;*/
+}
+
+
+#histogram{
+  position:absolute;
+  top:80%;
+  left:0%;
+  width: 65%;
+  height:20%;
+  border-style: solid;
+  border-width: 0px;
+  border-color: silver;
+  line-height:1.5;
+    background-color: #F5F5F5;
+}
+
+#linesflow{
+  position:absolute;
+  top:2%;
+  left:65%;
+  width: 35%;
+  height:32%;
+  border-style: solid;
+  border-width: 0px;
+  border-color: silver;
+  line-height:1.5;
+   background-color: #F5F5F5;
+}
+
+#stationsflow{
+  position:absolute;
+  top:33.3%;
+  left:65%;
+  width: 35%;
+  height:33.3%;
+  border-style: solid;
+  border-width: 0px;
+  border-color: silver;
+  line-height:1.5;
+    background-color: #F5F5F5;
+}
+
+#change{
+  position:absolute;
+  top:66.6%;
+  left:65%;
+  width: 35%;
+  height:33.3%;
+  border-style: solid;
+  border-width: 0px;
+  border-color: silver;
+  line-height:1.5;
+       background-color: #F5F5F5;
+}
+
+
+.axis text {
+  font: 6px Serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+  fill-opacity: .9;
+}
+
+.bar:hover {
+  fill: blue;
+}
+rect.bordered {
+  stroke: #E6E6E6;
+  stroke-width:2px;   
+}
+
+
+.d3-tip {
+  margin: -17px 0 0 0;
+  line-height: 1.15;
+  font-weight: bold;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 5px;
+}
+
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
